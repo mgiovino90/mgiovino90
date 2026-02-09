@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Marissa, I am an R&D engineer with 7 years of experience in advanced materials processing, experimental design and data analytics.  Earlier this year, I completed a program in applied data science and decided to switch fields to data science.  I'm excited to join data science field and solve complex problems using data-driven methods.
+My name is Marissa, I am an R&D engineer with 7 years of experience in advanced materials processing, experimental design and data analytics.  In 2025, I completed a program in applied data science and started gaining experience in machine learning by competing in Kaggle competitions and working on computer vision projects at work.  
 
 <!--
 **mgiovino90/mgiovino90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
